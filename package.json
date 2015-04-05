@@ -1,5 +1,5 @@
 {
-  "name": "LatoDoc",
+  "name": "latodoc",
   "version": "1.0.0",
   "description": "Clean and minimal JSDoc 3 Template / Theme",
   "main": "publish.js",
