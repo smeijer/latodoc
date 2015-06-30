@@ -15,7 +15,7 @@ A clean, responsive documentation template theme for JSDoc 3.
 ## Install
 
 ```bash
-$ npm install --save-dev smeijer:latodoc
+$ npm install --save-dev smeijer/latodoc
 ```
 
 ## Usage
