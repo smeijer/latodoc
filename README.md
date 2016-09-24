@@ -54,7 +54,7 @@ In your `.jsdoc.json` file, add a template option.
     },
     "source": {
         "include": ["lib", "package.json", "README.md"],
-        "includePattern": ".js$",
+        "includePattern": "\\.js$",
         "excludePattern": "(node_modules/|docs)"
     },
     "plugins": [
