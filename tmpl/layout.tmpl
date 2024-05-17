@@ -36,9 +36,11 @@
 
 <br class="clear">
 
+<?js if(env.conf.templates && env.conf.templates.latodoc && env.conf.templates.latodoc.includeDate !== false) { ?>
 <footer>
     Documentation generated at <?js= (new Date()) ?>
 </footer>
+<?js } ?>
 
 <script>prettyPrint();</script>
 <script src="scripts/linenumber.js"></script>
